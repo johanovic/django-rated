@@ -1,3 +1,5 @@
+Do not use this version
+
 django-rated
 ============
 [![Downloads](https://pypip.in/d/django-rated/badge.png)](https://crate.io/package/django-rated)
